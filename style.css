@@ -1,0 +1,27 @@
+.header{
+    color:orange;
+    font-size: 40px;
+    box-shadow: 5px 5px 5px rgb(300, 50, 780);
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+  
+    font-size: 20px;
+    background: #00f54e;
+    border-radius: 20px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+.link:hover {
+  
+    font-size: 25px;
+    text-decoration: underline;
+}
